@@ -1,4 +1,4 @@
-# Virtual-Assistant
+# My-Virtual-Assistant
 **MOTIVATION** : I made this project to collect data from two most popular sites and get results from them in the same window prompt.
 
 For this program we need some of *pip* so we have to install them in our machines.  
